@@ -1,0 +1,43 @@
+.contenedorTitulo{
+    width: 100%;
+    height: 30px;
+    background-color: #FFFF;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.cardsContainer{
+    width: 100%;
+    padding-left: 10%;
+}
+
+.cards{
+    display: inline-block;
+    width: 20%;
+    margin-right: 0.5%;
+    margin-left: 0.5%;
+    margin-bottom: 0.2%;
+}
+
+.card{
+    border-radius: 15px;
+    margin-left: 10%;
+    padding: 0;
+    width: 100%;
+    height: 17.8vw;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.loadimage{
+    height: 11vh;
+}
+
+.loadimage img{
+    max-width: 100%;
+    border-radius: 15px;
+}

@@ -1,0 +1,19 @@
+<div class="contenedorTitulo">
+    <h5 style="color: black; font-size: 30px;">Paquetes Internacionales</h5>
+</div>
+
+<div class="cardsContainer">
+    <div class="cards" *ngFor="let item of PaqueteListInt">
+        <div class="card text-bg-dark">
+            <div class="loadimage">
+                <img src="../../../../assets/images/paquetesint/{{item.ID}}.jpg" alt="...">
+            </div>
+            
+            <div class="card-body">
+                <h5 class="card-title">{{item.Destino}}</h5>
+                <p class="card-text">{{item.Duracion}}</p>
+                <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+        </div>
+    </div>
+</div>

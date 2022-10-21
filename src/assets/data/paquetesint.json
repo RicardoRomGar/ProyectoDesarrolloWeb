@@ -1,0 +1,114 @@
+[
+    {
+     "ID": "INT001",
+     "Destino": "Dubai",
+     "Origen": "Ciudad de Mexico",
+     "Duracion": "2 semanas",
+     "Costo": 60000
+    },
+    {
+     "ID": "INT002",
+     "Destino": "Estambul",
+     "Origen": "Ciudad de Mexico",
+     "Duracion": "2 semanas",
+     "Costo": 52000
+    },
+    {
+     "ID": "INT003",
+     "Destino": "Sydney",
+     "Origen": "Ciudad de Mexico",
+     "Duracion": "2 semanas",
+     "Costo": 50000
+    },
+    {
+     "ID": "INT004",
+     "Destino": "Tokio",
+     "Origen": "Ciudad de Mexico",
+     "Duracion": "2 semanas",
+     "Costo": 45000
+    },
+    {
+     "ID": "INT005",
+     "Destino": "Nueva York",
+     "Origen": "Ciudad de Mexico",
+     "Duracion": "1 semana",
+     "Costo": 33000
+    },
+    {
+        "ID": "INT001",
+        "Destino": "Dubai",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 60000
+       },
+       {
+        "ID": "INT002",
+        "Destino": "Estambul",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 52000
+       },
+       {
+        "ID": "INT003",
+        "Destino": "Sydney",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 50000
+       },
+       {
+        "ID": "INT004",
+        "Destino": "Tokio",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 45000
+       },
+       {
+        "ID": "INT005",
+        "Destino": "Nueva York",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "1 semana",
+        "Costo": 33000
+       },
+       {
+        "ID": "INT001",
+        "Destino": "Dubai",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 60000
+       },
+       {
+        "ID": "INT002",
+        "Destino": "Estambul",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 52000
+       },
+       {
+        "ID": "INT003",
+        "Destino": "Sydney",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 50000
+       },
+       {
+        "ID": "INT004",
+        "Destino": "Tokio",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 45000
+       },
+       {
+        "ID": "INT005",
+        "Destino": "Nueva York",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "1 semana",
+        "Costo": 33000
+       },
+       {
+        "ID": "INT001",
+        "Destino": "Dubai",
+        "Origen": "Ciudad de Mexico",
+        "Duracion": "2 semanas",
+        "Costo": 60000
+       }
+   ]

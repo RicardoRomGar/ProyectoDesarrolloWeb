@@ -1,0 +1,114 @@
+[
+    {
+     "ID": "NAC001",
+     "Destino": "Los Cabos",
+     "Origen": "San Luis Potosi",
+     "Duracion": "5 dias",
+     "Costo": 8500
+    },
+    {
+     "ID": "NAC002",
+     "Destino": "Tulum",
+     "Origen": "San Luis Potosi",
+     "Duracion": "5 dias",
+     "Costo": 9000
+    },
+    {
+     "ID": "NAC003",
+     "Destino": "Puerto Vallarta",
+     "Origen": "San Luis Potosi",
+     "Duracion": "3 dias",
+     "Costo": 5500
+    },
+    {
+     "ID": "NAC004",
+     "Destino": "Mazatlan",
+     "Origen": "San Luis Potosi",
+     "Duracion": "3 dias",
+     "Costo": 6000
+    },
+    {
+     "ID": "NAC005",
+     "Destino": "Playa del Carmen",
+     "Origen": "San Luis Potosi",
+     "Duracion": "5 dias",
+     "Costo": 8500
+    },
+    {
+        "ID": "NAC001",
+        "Destino": "Los Cabos",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 8500
+       },
+       {
+        "ID": "NAC002",
+        "Destino": "Tulum",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 9000
+       },
+       {
+        "ID": "NAC003",
+        "Destino": "Puerto Vallarta",
+        "Origen": "San Luis Potosi",
+        "Duracion": "3 dias",
+        "Costo": 5500
+       },
+       {
+        "ID": "NAC004",
+        "Destino": "Mazatlan",
+        "Origen": "San Luis Potosi",
+        "Duracion": "3 dias",
+        "Costo": 6000
+       },
+       {
+        "ID": "NAC005",
+        "Destino": "Playa del Carmen",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 8500
+       },
+       {
+        "ID": "NAC001",
+        "Destino": "Los Cabos",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 8500
+       },
+       {
+        "ID": "NAC002",
+        "Destino": "Tulum",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 9000
+       },
+       {
+        "ID": "NAC003",
+        "Destino": "Puerto Vallarta",
+        "Origen": "San Luis Potosi",
+        "Duracion": "3 dias",
+        "Costo": 5500
+       },
+       {
+        "ID": "NAC004",
+        "Destino": "Mazatlan",
+        "Origen": "San Luis Potosi",
+        "Duracion": "3 dias",
+        "Costo": 6000
+       },
+       {
+        "ID": "NAC005",
+        "Destino": "Playa del Carmen",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 8500
+       },
+       {
+        "ID": "NAC001",
+        "Destino": "Los Cabos",
+        "Origen": "San Luis Potosi",
+        "Duracion": "5 dias",
+        "Costo": 8500
+       }
+   ]
