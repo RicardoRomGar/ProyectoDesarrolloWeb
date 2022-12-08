@@ -10,6 +10,8 @@ import { PaquetesInterComponent } from './Componentes/PaquetesInter/paquetes-int
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from '../assets/Rutas/app.routes';
+import { Paquetesint2Component } from './Componentes/Paquetesint2/paquetesint2/paquetesint2.component';
+import { ComentsComponent } from './Componentes/Comentarios/coments/coments.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +21,8 @@ import { AppRoutingModule } from '../assets/Rutas/app.routes';
     NavbarComponent,
     PaquetesComponent,
     PaquetesInterComponent,
+    Paquetesint2Component,
+    ComentsComponent,
   ],
   imports: [
     BrowserModule,

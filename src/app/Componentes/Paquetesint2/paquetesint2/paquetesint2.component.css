@@ -1,0 +1,12 @@
+.contenedorGeneral{
+    width: 70%;
+    
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding-top: 1%;
+}
+
+.list-group-item{
+    margin-bottom: 3%;
+}
