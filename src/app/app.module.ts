@@ -12,6 +12,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from '../assets/Rutas/app.routes';
 import { Paquetesint2Component } from './Componentes/Paquetesint2/paquetesint2/paquetesint2.component';
 import { ComentsComponent } from './Componentes/Comentarios/coments/coments.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,9 @@ import { ComentsComponent } from './Componentes/Comentarios/coments/coments.comp
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

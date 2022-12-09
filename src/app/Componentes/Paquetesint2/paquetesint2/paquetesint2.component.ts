@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DatabaseService } from 'src/service/paquetesintsql';
-import {Observable} from 'rxjs'
+import {Observable} from 'rxjs';
 import { FormGroup, FormControl } from '@angular/forms';
 
 @Component({
@@ -22,7 +22,6 @@ export class Paquetesint2Component {
 
   ngOnInit(): void {
     this.mostrarTodos();
-    //this.Agregar();
   }
 
   mostrarTodos(){
@@ -30,10 +29,11 @@ export class Paquetesint2Component {
     console.log(this.paquetesInt2);
   }
 
-  /*Agregar():void{
+  Agregar():void{
     this.SVC.agregar(this.interForm.value).subscribe(() => {
       this.mostrarTodos();
       this.interForm.reset('');
     })
-  }*/
+    console.log(this.interForm.value);
+  }
 }
